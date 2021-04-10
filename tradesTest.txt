@@ -1,0 +1,8 @@
+Trade{Id=0, executionTime=2021-04-06T13:42:48.159116200, quantity=40, price=20}
+Trade{Id=2, executionTime=2021-04-06T13:58:23.983502500, quantity=40, price=20}
+Trade{Id=5, executionTime=2021-04-06T14:23:56.375429700, quantity=40, price=20}
+
+Trade{Id=5, executionTime=2021-04-06T16:35:47.847760600, quantity=40, price=20}
+Trade{Id=5, executionTime=2021-04-06T18:16:03.941241200, quantity=40, price=20}
+Trade{Id=5, executionTime=2021-04-07T12:26:45.905952200, quantity=40, price=20}
+Trade{Id=5, executionTime=2021-04-07T12:35:34.895490300, quantity=40, price=20}
